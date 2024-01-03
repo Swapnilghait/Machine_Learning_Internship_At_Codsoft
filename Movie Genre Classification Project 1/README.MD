@@ -38,3 +38,9 @@ Trained the model on the processed data to predict movie genres.
 Evaluated the model's performance using metrics like accuracy, precision, recall, and F1-score.
 Fine-tuned the model to improve genre classification accuracy.
 
+**6. References**
+Documentation : https://drive.google.com/drive/folders/1rJ_sl0KUklea7YH6HE_pcaB5FCIQoOkm?usp=sharing
+
+Datasets : https://drive.google.com/drive/folders/16ytfdSwgVmYq0tDWkhc8kVwBSap7y1f8?usp=sharing
+
+Resources : https://drive.google.com/drive/folders/1eOxsK2BMc-1MzIosC0H3WNlyeIlj9uvC?usp=sharing
