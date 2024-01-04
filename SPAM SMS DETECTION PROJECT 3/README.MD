@@ -48,6 +48,6 @@ Libraries Used scikit-learn, pandas, numpy, etc.
 
 5. References
 
-Datasets : https://drive.google.com/drive/folders/1FRU5kET2RpYnK-HKm9_IFp7wXsxAh2Wp?usp=sharing
+Datasets : https://drive.google.com/drive/folders/1rm16lCAnfDrGIypgSqmZP5p0bMNWPQ54?usp=sharing
 
-Resources : https://drive.google.com/drive/folders/1vxYyuC7JkSVdirxbiQcYFnG6i1Op7EUT?usp=sharing
+Resources : https://drive.google.com/drive/folders/1qet0YnAonZpQuqKralnrShEkVV0FLkkw?usp=sharing
