@@ -41,3 +41,8 @@ Continued refinement of the model, exploration of advanced techniques, and poten
 
 This project serves as a comprehensive exploration and analysis of predictive modeling techniques to anticipate customer churn, offering valuable insights and potential strategies for businesses reliant on subscription-based services.
 
+**References**
+
+Datasets :https://drive.google.com/drive/folders/1rm16lCAnfDrGIypgSqmZP5p0bMNWPQ54?usp=sharing
+Resources : https://drive.google.com/drive/folders/1qet0YnAonZpQuqKralnrShEkVV0FLkkw?usp=sharing
+
